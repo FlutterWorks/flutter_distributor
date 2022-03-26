@@ -34,6 +34,7 @@
 - [app_package_maker_exe](./packages/app_package_maker_exe/) - 为你的应用创建一个 `exe` 包。
 - [app_package_maker_ipa](./packages/app_package_maker_ipa/) - 为你的应用创建一个 `ipa` 包。
 - [app_package_maker_zip](./packages/app_package_maker_zip/) - 为你的应用创建一个 `zip` 包。
+- [app_package_publisher_appstore](./packages/app_package_publisher_appstore/) - 把你的应用发布到 `appstore`.
 - [app_package_publisher_fir](./packages/app_package_publisher_fir/) - 把你的应用发布到 `fir`。
 - [app_package_publisher_firebase](./packages/app_package_publisher_firebase/) - 把你的应用发布到 `firebase`。
 - [app_package_publisher_github](./packages/app_package_publisher_github/) - 把你的应用发布到 `github` release。
@@ -93,6 +94,7 @@ flutter_distributor release --name dev
 
 - [比译](https://biyidev.com/) - 一个便捷的翻译和词典应用。
 - [钱迹](https://qianjiapp.com/) - 一款纯粹记账的应用。
+- [Alga](https://github.com/laiiihz/alga/) - 一个开发者工具应用。
 
 ## 许可证
 

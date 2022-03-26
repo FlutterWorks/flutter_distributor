@@ -1,3 +1,13 @@
+## 0.1.8
+
+- [aab maker] support flavor arg #46
+- Add `appstore` publisher. #45
+
+## 0.1.7
+
+- Change parameter `cleanOnceBeforeBuild` to `cleanBeforeBuild`
+- Changed to only clean once before build #41
+
 ## 0.1.6
 
 - `PowerShell` support.
